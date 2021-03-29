@@ -10,7 +10,7 @@ import toolz
 logger = logging.getLogger(__name__)
 
 default_args = {
-    'owner': 'andresionek91',
+    'owner': 'juanarmond',
     'start_date': datetime(2020, 5, 20),
     'depends_on_past': False,
     'provide_context': True
